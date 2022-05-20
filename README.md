@@ -9,4 +9,8 @@ Data available at:
 
 The evaluation metric for this competition is Root Mean Squared Logarithmic Error (RMSE).
 
-Several regression models have been trained. A Random Forest with 12 depths gets a RMSE of 1,90569. 
+Several regression models have been trained. The results of each model has been:
+
+![results](src/utils/foo.png)
+
+A Random Forest with 12 depths gets the best performance with an RMSE of 1,90569. 
