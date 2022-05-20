@@ -3,7 +3,7 @@
 In this competition, Santander Group is asking Kagglers to help them identify the value of transactions for each potential customer. This is a first step that Santander needs to nail in order to personalize their services at scale.
 
 Data available at:
-[Banco Santander | kaggle](https://www.kaggle.com/competitions/santander-value-prediction-challenge/leaderboard](https://www.kaggle.com/competitions/santander-value-prediction-challenge/data)
+[Banco Santander | kaggle](https://www.kaggle.com/competitions/santander-value-prediction-challenge/data)
 
 ![logo santander](src/utils/Santander-Logo.png)
 
